@@ -17,7 +17,7 @@ A lightweight Qt6 system tray app for monitoring and watching Twitch streams on 
 ### Main Application
 
 <p align="center">
-  <img src="BilderTray/StreamTray.png?raw=true" alt="StreamTray Main Window" width="480"/>
+  <img src="BilderTray/xStreamTray.png" alt="StreamTray Main Window" width="480"/>
 </p>
 
 StreamTray is a lightweight Twitch desktop companion that lets you monitor, manage, and watch your favorite streams without leaving your desktop.
@@ -34,7 +34,7 @@ StreamTray is a lightweight Twitch desktop companion that lets you monitor, mana
 ### Settings & Player Configuration
 
 <p align="center">
-  <img src="BilderTray/StreamTraySettings.png?raw=true" alt="StreamTray Settings" width="480"/>
+  <img src="BilderTray/xStreamTraySettings.png" alt="StreamTray Settings" width="480"/>
 </p>
 
 Tailor the app to your workflow through the built-in Settings panel.
@@ -51,7 +51,7 @@ Tailor the app to your workflow through the built-in Settings panel.
 ### Multiple Streams & Chats
 
 <p align="center">
-  <img src="BilderTray/StreamMultipleChats.png?raw=true" alt="Multiple Streams and Chats" width="640"/>
+  <img src="BilderTray/xStreamMultipleChats.png" alt="Multiple Streams and Chats" width="640"/>
 </p>
 
 Open as many streams or chat windows as you want — each one runs independently, so you can follow multiple communities at once.
@@ -68,7 +68,7 @@ Open as many streams or chat windows as you want — each one runs independently
 ### System Tray Controls
 
 <p align="center">
-  <img src="BilderTray/StreamTrayIcon.png?raw=true" alt="StreamTray System Tray Icon" width="320"/>
+  <img src="BilderTray/xStreamTrayIcon.png" alt="StreamTray System Tray Icon" width="320"/>
 </p>
 
 Everything is accessible straight from the system tray — no need to open the main window.
