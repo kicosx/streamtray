@@ -1,0 +1,47 @@
+# Build artifacts
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.a
+*.so
+*.so.*
+moc_*
+qrc_*
+ui_*.h
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.qmlc
+*.jsc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled binary
+streamtray
+
+# Config (contains OAuth tokens)
+*.conf
+
+# Package artifacts
+*.deb
+*.rpm
+*.tar.gz
+*.AppImage
+
+# Debug
+*.debug
+core
+core.*
